@@ -1,0 +1,10 @@
+c:\users\kerem\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+c:\users\kerem\source\repos\Timer\Timer\bin\Debug\Timer.exe
+c:\users\kerem\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.Form1.resources
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.exe
+c:\users\kerem\source\repos\Timer\Timer\obj\Debug\Timer.pdb
